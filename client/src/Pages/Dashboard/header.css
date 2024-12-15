@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;500;600;700;900&family=Sue+Ellen+Francisco&display=swap');
+.title3{
+    font-family: 'Sue Ellen Francisco', cursive;
+    font-size: 2vw;
+    text-align: left;
+    gap: 1px;
+    margin-left: -95px;
+}
+.icon{
+    margin-right: -85px;
+}
+.name{
+    margin-right: -80px;
+}

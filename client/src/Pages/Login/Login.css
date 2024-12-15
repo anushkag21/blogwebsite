@@ -1,0 +1,28 @@
+body{
+    margin:0;
+    padding:0;
+}
+.input-box2{
+    
+    position: absolute;
+    color: #fff;
+    margin-left: 5vw;
+    margin-top: 7vw;
+    padding: 2vw ;
+    height: max-content;
+    background: rgba(0, 0, 0, 0.4);
+    border-radius: 15px;
+    backdrop-filter: blur(8px);
+    width: 33%;
+}
+.login-link{
+    text-decoration: none;
+    color: inherit;
+}
+.signup-link{
+    color: rgb(94, 135, 222);
+    text-decoration: none;
+}
+.signup-link:hover{
+    color: rgb(255, 255, 255);
+}

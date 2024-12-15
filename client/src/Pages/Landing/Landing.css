@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,400;0,500;0,700;0,900;1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;500;600;700;900&family=Sue+Ellen+Francisco&display=swap');
+
+body{
+    margin:0;
+    padding:0;
+}
+.input-box2 h1 {
+    text-align: center;
+    margin: 30px 0;
+    font-size: 30px;
+  }
+.title{
+    font-family: 'Sue Ellen Francisco', cursive;
+    margin-left:2vw;
+    text-align: left;
+    padding-top: 1vw;
+    font-size:3vw;
+}
+.heading{
+    font-size: 5vw;
+    padding-bottom: 0vw;
+    padding-top: 0vw;
+    margin-top: 0vw;
+    margin-bottom: 0vw;
+}
+.text{
+ margin-left:2vw;
+ text-align: left;
+ color:white;
+}
+.para{
+    width: 37%;
+    font-family: 'Source Sans 3', sans-serif;
+    font-weight: 500;
+}
+.text1{
+    font-family: 'Sue Ellen Francisco', cursive;
+}
+.button{
+    color: white;
+    margin-left: 2vw;
+    background-color: #FFA447;
+    padding:1vw;
+    border-radius: 0.5vw;
+    
+}
+.button:hover{
+    cursor:pointer;
+    background-color: #FFBB64;
+}
+.link{
+    text-decoration: none;
+    color:white;
+    font-size:1vw;
+}
